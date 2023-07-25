@@ -20,6 +20,7 @@ public class Main {
 
         B b = new B();
         b.meth();
+        System.out.println(b.meth());
     }
 
 
